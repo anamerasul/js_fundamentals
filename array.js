@@ -21,3 +21,4 @@ console.log(vowels);
 
 console.log(vowels.length);
 console.log(vowelsCount);
+
